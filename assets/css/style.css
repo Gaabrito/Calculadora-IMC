@@ -65,3 +65,9 @@ form button:hover {
 .bad {
   background: rgb(255, 150, 150);
 }
+
+footer {
+  color: white;
+  text-align: center;
+}
+
