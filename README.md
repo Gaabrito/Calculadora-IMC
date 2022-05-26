@@ -4,7 +4,7 @@ Uma calculadora IMC básica que retorna o IMC do usuário usando a fórmula IMC 
 
 ## Acesse o projeto
 
-Você pode ver o projeto em funcionamento clicando <a href="https://imccalculate.netlify.app" target="_blank">aqui</a>.
+Você pode ver o projeto em funcionamento clicando <a href="https://imccalculate.netlify.app" target="_blank">aqui</a>. <br>
 Ou copiando o link: https://imccalculate.netlify.app
 
 ## Começando
