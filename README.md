@@ -1,6 +1,6 @@
-# Calculadora IMC
+<h1 align="center"> Calculadora IMC </h1>
 
-Uma calculadora IMC básica que retorna o IMC do usuário usando a fórmula IMC = Peso ÷ (Altura × Altura)
+Uma simples calculadora IMC :D
 
 ## Acesse o projeto
 
@@ -16,7 +16,7 @@ Ou copiando o link: https://imccalculate.netlify.app
 
 ### Instalação
 
-1. Instale o arquivo ZIP ou clone o repositório
+1. Clone o repositório
 
 ```sh
 git clone https://github.com/GabrielFelip/calculadora-IMC.git
