@@ -7,7 +7,7 @@ Uma simples calculadora IMC :D
 Você pode ver o projeto em funcionamento clicando <a href="https://imccalculate.netlify.app" target="_blank">aqui</a>. <br>
 Ou copiando o link: https://imccalculate.netlify.app
 
-## 🚀 Instalando o cronometro
+## 🚀 Instalando a calculadora IMC
 
 ### 💻 Pré-requisitos
 
